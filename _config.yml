@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : "https://bsky.app/profile/oliviacamel.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "oliviacamel.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -247,14 +247,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
